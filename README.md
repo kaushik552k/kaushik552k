@@ -42,8 +42,8 @@
 
 
 [hackerrank]: https://www.hackerrank.com/_181500373
-[instagram]: https://www.instagram.com/thisiskaushikdutta/
-[linkedin]: https://www.linkedin.com/in/kaushik-dutta552k/
+[instagram]: https://www.instagram.com/kaushikkdutta/
+[linkedin]: https://www.linkedin.com/in/master-kaushik-dutta/
 
 <!-- kaushikd552k/kaushikd552k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. -->
