@@ -4,11 +4,9 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="310px" />
 
-- 👀 I’m interested in Wed Designing
-- 🔭 I’m currently working on Web Development with Angular
-- 🌱 I’m currently learning angular 🅰
-- 🤔 I’m looking for help with good resources on Web Development with Angular
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working as a software developer - [Next.js and Golang]
+- 🤔 I’m looking for good opportunities to work in frontend development
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play CSGO | come and beat me 🎮
 - 📫 How to reach me: <b><i>kaushikdutta473@gmail.com</i></b>
 
