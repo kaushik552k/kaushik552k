@@ -16,6 +16,7 @@ I'm a passionate software developer with 3+ years of professional experience. Cu
 
 ### Connect with me:
 
+[<img align="left" alt="Kaushik | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/about-dot-me.svg" />][Portfolio]
 [<img align="left" alt="Kaushik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kaushik | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="Kaushik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -56,3 +57,4 @@ I'm a passionate software developer with 3+ years of professional experience. Cu
 [hackerrank]: https://www.hackerrank.com/_181500373
 [instagram]: https://www.instagram.com/kaushikkdutta/
 [linkedin]: https://www.linkedin.com/in/master-kaushik-dutta/
+[portfolio]: https://kaushikdutta.com/
